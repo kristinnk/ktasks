@@ -1,0 +1,11 @@
+Nafn:
+
+GUIfying Admin Launcher
+
+Lýsing:
+
+Admin Launcher is a project started years ago to ease the Helpdesks employee's job at a certain company. It automates many tasks, including information gathering, software deployment and implementing various known fixes. It is currently command-line based with a text based menu system. It is time to make a GUI around it.
+
+This project is based around using C#, atleast to begin with.
+(8:42:24 PM) Páll: Búin að gera tests, næ að gera C# og næ að nota enter í lýsingunni.. en þetta allt saman virkar ekki. Stofnast ekki, eða kemur allavega ekki fram á síðunni.
+(8:42:28 PM) Páll: afk...

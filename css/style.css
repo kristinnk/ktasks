@@ -1,0 +1,186 @@
+body
+{
+	background-color:#199999;
+}
+
+table
+{
+	border : 2px solid black;
+	border-radius : 10px;
+	font-family : Arial;
+	font-size : 12px;	
+	
+}
+
+A:link
+{
+	font-family : Arial;
+	font-size : 12px;	
+	color: black;
+}
+
+A:hover
+{
+	font-family : Arial;
+	font-size : 12px;	
+	color : gray;
+}
+
+A:visited
+{
+	font-family : Arial;
+	font-size : 12px;	
+	color: black;
+}
+
+input
+{
+	border : 1px solid black;
+	width : 100%;
+	font-family : Arial;
+	font-size : 12px;
+	color : black;
+}
+
+textarea
+{
+	border : 1px solid black;
+	width : 100%;
+	font-family : Arial;
+	font-size : 12px;
+	color : black;
+}
+
+.table_bg
+{
+	background-color:#FFFFFF;	
+	border-radius : 0px 0px 10px 10px;
+}
+
+.subtable_bg
+{
+	background-color:#EEEEEE;	
+	border-radius : 0px 0px 10px 10px;
+}
+
+.table_bg_noround
+{
+	background-color:#FFFFFF;	
+}
+
+.subtable_bg_noround
+{
+	background-color:#EEEEEE;		
+}
+
+.subtable_bg_roundleft
+{
+	background-color:#EEEEEE;	
+	border-radius : 0px 0px 0px 10px;
+	
+}
+
+.subtable_bg_roundright
+{
+
+	background-color:#EEEEEE;	
+	border-radius : 0px 0px 10px 0px;
+
+}
+
+.title_bar
+{
+	background-color:#FFB273;
+	border-radius : 8px 8px 0px 0px;
+}
+
+.table_bg_round_bottom
+{
+	background-color:#FFFFFF;
+	border-radius : 0px 0px 8px 8px;
+}
+
+.title_bar_2
+{
+	background-color:#FF7400;
+	border-radius : 8px 8px 0px 0px;
+}
+
+.title_bar_3
+{
+	background-color:#FFB273;
+	border-radius : 8px 8px 0px 0px;
+}
+
+.title_bar_4
+{
+	background-color:#FFB273;
+	border-radius : 8px 8px 0px 0px;
+}
+
+.title_bar_top_epics_left
+{
+	background-color:#FF7400;
+	border-radius : 8px 0px 0px 8px;
+}
+
+.title_bar_top_epics_right
+{
+	background-color:#FF7400;
+	border-radius : 0px 8px 8px 0px;
+}
+
+.postit_note
+{
+	background-color:#FFB273;
+}
+
+.postit_note_closed{
+	background-color:#FF7400;
+}
+
+.kamban_title
+{
+	background-color:#BF7130;
+	border-radius : 8px 8px 0px 0px;
+}
+
+.kamban_subtitle_bar
+{
+	background-color:#FFB273;
+}
+.kamban_subtitle_bar_left
+{
+	background-color:#FFB273;
+	border-radius : 8px 0px 0px 0px;
+}
+
+.kamban_subtitle_bar_right
+{
+	background-color:#FFB273;
+	border-radius : 0px 8px 0px 0px;
+}
+
+.kamban_ticket_light
+{
+	background-color:#FFB273;
+	border-radius : 8px 8px 8px 8px;
+}
+
+.kamban_ticket_dark
+{
+	background-color:#A64B00;
+	border-radius : 8px 8px 8px 8px;
+}
+
+.kamban_subtable_right
+{
+	background-color:#EAEAEA;
+	border-radius : 0px 0px 8px 0px;
+}
+
+.kamban_subtable_left
+{
+	background-color:#EAEAEA;
+	border-radius : 0px 0px 0px 8px;
+}
